@@ -6,8 +6,8 @@ I know u looking for that. But frist! lets talk about somethings...
 
 
  Moulinette's Corrections___________________________________________________________________________________
- * Eu Aceito Porto: i_accept: OK
- * Shell00: ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: Nothing turned in | ex07: Nothing turned in | ex08: Nothing turned in | ex09: Nothing turned in
+ * (100%) Eu Aceito Porto: i_accept: OK
+ * (50%) Shell00: ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: Nothing turned in | ex07: Nothing turned in | ex08: Nothing turned in | ex09: Nothing turned in
  * Shell01:
  * C00:
  * C01:
